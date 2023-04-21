@@ -4,7 +4,7 @@
 
 ## Description
 
-This is the senction 19 challenge which features a PWA aplication for creating notes.
+This is the section 19 challenge which features a PWA aplication for creating notes.
 
 ## Image
 
